@@ -1,1 +1,2 @@
-https://svgl.app
+- https://svgl.app
+- https://devicon.dev/
