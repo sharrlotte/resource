@@ -1,0 +1,16 @@
+# V0
+
+design for me a search bar with these requirements
+
+Styles:
+
+- Modern and minimal
+- Responsive, use mobile first
+- Make sure it look good it both ligh and dark mode
+- Use tailwindcss with shadcn, prefer shadcn color over tailwindcss default color
+- Use best practies for Nextjs, priorities SSR over CSR
+- Split code into files to reuse
+
+Features:
+
+Data:
